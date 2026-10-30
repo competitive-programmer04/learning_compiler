@@ -1,6 +1,6 @@
-#Learning about compilers
+# Learning about compilers
 
-##References
+## References
 ```bash
 Allen Holub's Compiler design in c
 ```
